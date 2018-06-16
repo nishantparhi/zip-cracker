@@ -1,5 +1,5 @@
 #!/usr/bin/python2
-# zipfile password: NISHANT PARHI
+# zip-cracker author: NISHANT PARHI
 # This program is meant to be run with Python Version 2
 # usage: python zipcracker.py -f <zipfile> -d <dictionary file>
 
